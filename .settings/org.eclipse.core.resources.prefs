@@ -20,5 +20,6 @@ encoding//protocol/command_protocol.py=utf-8
 encoding//protocol/heart_beat_protocol.py=utf-8
 encoding//protocol/register_protocol.py=utf-8
 encoding//test/__init__.py=utf-8
+encoding//test/test_defer.py=utf-8
 encoding//test/test_json_help.py=utf-8
 encoding//test/test_struct_help.py=utf-8

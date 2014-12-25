@@ -43,6 +43,7 @@ class pc_client_protocol(LineReceiver, protocol_help):
         
     def connectionLost(self, reason):
         print "lost_reason",reason
+        self.heart_beat_task.stop()
 
     def rawDataReceived(self, data):
         #parse protocol

@@ -1,0 +1,7 @@
+1、vnc
+2、RDP协议
+
+google:
+远程桌面实现原理
+windows远程桌面原理
+qq远程桌面原理
